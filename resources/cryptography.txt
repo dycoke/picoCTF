@@ -1,0 +1,2 @@
+MD5 Hash: https://md5.gromweb.com/
+Vigenere Cipher: https://www.dcode.fr/vigenere-cipher
